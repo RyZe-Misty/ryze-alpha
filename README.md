@@ -2,7 +2,7 @@
 # Goldzilla.gg
 ## Welcome to Goldzilla.gg
 
-![D:\github things\ryze-alpha\unknown.png]
+![Image](D:\github things\ryze-alpha\unknown.png)
 
 ```
 monke

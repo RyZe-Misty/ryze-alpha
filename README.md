@@ -1,4 +1,4 @@
-@@ -1 +1,37 @@
+lol the thing at the top does nothing
 # Goldzilla.gg
 ## Welcome to Goldzilla.gg
 

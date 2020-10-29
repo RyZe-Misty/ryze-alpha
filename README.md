@@ -3,8 +3,7 @@ lol the thing at the top does nothing
 ## Welcome to Goldzilla.gg
 
 ![Image](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/unknown.png)
-
-```
+![monster]
 monke
 
 ### textscreen_perma_save

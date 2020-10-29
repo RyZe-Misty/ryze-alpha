@@ -2,6 +2,7 @@ lol the thing at the top does nothing
 # Goldzilla.gg
 ## Welcome to Goldzilla.gg
 
+![arabian god](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/image0.jpg)
 ![Image](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/unknown.png)
 ![monster](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/unknown%20(1).png)
 ![whatever this fucking demonspawn is](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/IMG_20200918_232917.jpg)

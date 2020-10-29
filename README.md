@@ -2,7 +2,7 @@
 # Goldzilla.gg
 ## Welcome to Goldzilla.gg
 
-![Image](D:\github things\ryze-alpha\unknown.png)
+![https://ryze-misty.github.io/ryze-alpha/](D:\github things\ryze-alpha\unknown.png)
 
 ### Markdown
 

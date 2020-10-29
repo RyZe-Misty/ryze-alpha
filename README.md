@@ -2,7 +2,7 @@ lol the thing at the top does nothing
 # Goldzilla.gg
 ## Welcome to Goldzilla.gg
 
-![Image](D:\github things\ryze-alpha\unknown.png)
+![Image](https://github.com/RyZe-Misty/ryze-alpha/blob/main/unknown.png)
 
 ```
 monke

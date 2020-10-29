@@ -3,7 +3,9 @@ lol the thing at the top does nothing
 ## Welcome to Goldzilla.gg
 
 ![Image](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/unknown.png)
-![monster]
+![monster](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/unknown%20(1).png)
+![whatever this fucking demonspawn is](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/IMG_20200918_232917.jpg)
+```
 monke
 
 ### textscreen_perma_save

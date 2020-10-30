@@ -41,3 +41,7 @@ Syntax highlighted code block
 ```
 RyZeMisty#3744 on Discord
 ```
+
+# allah
+
+![big man inshallah](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/unknown%20(2).png)

@@ -1,7 +1,3 @@
-title: [Goldzilla]
-description: [haha fart]
-logo: [https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/Capture.png]
-
 
 
 # Goldzilla.gg

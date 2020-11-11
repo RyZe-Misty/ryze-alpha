@@ -3,12 +3,8 @@
 # Goldzilla.gg
 ## Welcome to Goldzilla.gg
 
-![arabian god](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/image0.jpg)
-![Image](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/unknown.png)
-![monster](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/unknown%20(1).png)
-![whatever this fucking demonspawn is](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/IMG_20200918_232917.jpg)
-```
-monke
+
+Why are you here lol
 
 ### textscreen_perma_save
 ```
@@ -43,6 +39,6 @@ Syntax highlighted code block
 RyZeMisty#3744 on Discord
 ```
 
-# allah
+#
 
 ![big man inshallah](https://raw.githubusercontent.com/RyZe-Misty/ryze-alpha/main/images/unknown%20(2).png)
